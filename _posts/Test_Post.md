@@ -1,3 +1,14 @@
+---
+layout: post
+title: How do you define your best customers? 
+subtitle: CLV
+gh-repo: 
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+mathjax: true
+author: Nick Rivera
+---
 How do you define your best customers? 
 
 The ones who make the largest purchases? 
