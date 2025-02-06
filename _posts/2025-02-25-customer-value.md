@@ -2,7 +2,7 @@
 layout: post
 title: How do you define your best customers? 
 subtitle: CLV
-gh-repo: 
+gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
