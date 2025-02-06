@@ -9,6 +9,7 @@ comments: true
 mathjax: true
 author: Nick Rivera
 ---
+
 How do you define your best customers? 
 
 The ones who make the largest purchases? 
