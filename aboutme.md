@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: I'm here 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Nick Rivera. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I listen
+- I think
+- I speak
 
-What else do you need?
+I'm here to help you think outside the box. 
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Since a wee lad I've asked the question "why?" My nature is inquisitive, to understand why things are going as they are, so I know how to get things back on track when they fly off the rails. 
