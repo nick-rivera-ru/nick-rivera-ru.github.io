@@ -46,7 +46,7 @@ This method is easy to keep our most important customers top of mind. Although, 
 
 If we matrix out customer B’s potential value, it shows a slightly different picture. 
 
-
+![CLV Matrix](https://nick-rivera-ru.github.io/assets/img/Customer_Value_Example.png){: .mx-auto.d-block :}
 
 With only 10 more visits in a year, Customer B’s value surpasses Customer A’s value. 
 
