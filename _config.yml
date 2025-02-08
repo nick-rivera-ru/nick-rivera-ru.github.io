@@ -20,11 +20,12 @@ author: Nick Rivera
 ###############################################
 
 navbar-links:
+  Home: "https://nick-rivera-ru.github.io/"
   About Me: "aboutme"
   # Resources:
   #   #- Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://nick-rivera-ru.github.io/"
+  
 
 ################
 # --- Logo --- #
